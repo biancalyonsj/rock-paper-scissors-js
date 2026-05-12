@@ -1,8 +1,8 @@
-<h1 align="center">Rock, Paper, Scissors Game</h1>
+<h1 align="center">Rock Paper Scissors Browser Game</h1>
 
-![image alt]()
+![image alt](https://github.com/biancalyonsj/rock-paper-scissors-js/blob/c2f31d17e761ceb00ed88ec8fdc3864e46512c1f/demo.jpg)
 
-<p>Created a simple rock, paper, scissors game using JavaScript.</p>
+<p>Built an interactive Rock Paper Scissors browser game using JavaScript. Implemented using dynamic DOM updates, randomized computer logic, and live score tracking.</p>
 
 <h2>Concepts Learned</h2>
 <h3>DOM Manipulation & Dynamic UI Rendering</h3>
